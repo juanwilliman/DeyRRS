@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 
   s.homepage         = 'https://github.com/juanwilliman/DeyRRS'
   s.license          = { :type => 'MIT', :file => 'LICENSE.md' }
-  s.author           = { 'Juan Williman' }
+  s.author           = { 'teambition mobile' => 'teambition-mobile@alibaba-inc.com' }
   s.source           = { :git => 'https://github.com/juanwilliman/DeyRRS.git', :tag => s.version.to_s }
 
   s.swift_version = '5.0'
